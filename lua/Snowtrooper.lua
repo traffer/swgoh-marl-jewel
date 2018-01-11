@@ -20,5 +20,5 @@ if cnt > 0 and cnt%size == 0 then
 	gg.setValues(r)
 	print(">>> Done.")
 else
-	print(">>> Strange number of results: ", cnt)
+	print("!!! Strange number of results: ", cnt)
 end

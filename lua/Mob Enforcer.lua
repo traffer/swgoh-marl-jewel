@@ -1,4 +1,4 @@
-gg.setVisible(false)
+--gg.setVisible(false)
 
 print("Mob Enforcer 10%")
 

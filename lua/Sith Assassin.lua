@@ -1,6 +1,6 @@
 --gg.setVisible(false)
 
-print("Sith Assassin (5%)")
+print("Sith Assassin 5%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)

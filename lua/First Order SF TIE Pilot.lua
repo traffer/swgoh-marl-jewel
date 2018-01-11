@@ -1,3 +1,5 @@
+--gg.setVisible(false)
+
 print("First Order SF TIE Pilot 10%")
 
 gg.clearResults()
@@ -12,7 +14,7 @@ if cnt > 0 and cnt%size == 0 then
 	local r = gg.getResults(cnt)
 	for i=0, cnt/size-1 do
 		r[1+i*size].value = 100000 -- speed
-		r[2+i*size].value = 2000 -- speed
+		r[2+i*size].value = 10000 -- speed
 		r[3+i*size].value = 500000 -- basic damage
 	end
 	gg.setValues(r)
@@ -20,5 +22,3 @@ if cnt > 0 and cnt%size == 0 then
 else
 	print(">>> Strange number of results: ", cnt)
 end
-
---gg.setVisible(false)

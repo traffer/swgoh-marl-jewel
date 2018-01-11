@@ -18,7 +18,7 @@ if cnt > 0 and cnt%size == 0 then
 		r[3+i*size].value = 94000 -- special damage
 	end
 	gg.setValues(r)
-	print("Done.")
+	print(">>> Done.")
 else
-	print("Strange number of results: ", cnt)
+	print("!!! Strange number of results: ", cnt)
 end

@@ -1,4 +1,4 @@
-gg.setVisible(false)
+--gg.setVisible(false)
 
 print("Tusken Raider")
 
@@ -13,7 +13,7 @@ if cnt > 0 and cnt%size == 0 then
 	print(">>> Found", cnt, "results.")
 	local r = gg.getResults(cnt)
 	for i=0, cnt/size-1 do
-		r[2+i*size].value = 2000 -- speed
+		r[2+i*size].value = 10000 -- speed
 		r[3+i*size].value = 90000 -- basic damage
 	end
 	gg.setValues(r)

@@ -1,4 +1,4 @@
-gg.setVisible(false)
+--gg.setVisible(false)
 
 print("Magmatrooper")
 
@@ -14,8 +14,8 @@ if cnt > 0 and cnt%size == 0 then
 	local r = gg.getResults(cnt)
 	for i=0, cnt/size-1 do
 		r[1+i*size].value = 100000 -- health
-		r[2+i*size].value = 2000 -- speed
-		r[3+i*size].value = 90000 -- basic damage
+		r[2+i*size].value = 10000 -- speed
+		r[3+i*size].value = 500000 -- basic damage
 	end
 	gg.setValues(r)
 	print(">>> Done.")
