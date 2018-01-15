@@ -5,7 +5,7 @@ print("Jawa 5%")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("4160;98;547::100", gg.TYPE_QWORD)
+gg.searchNumber("4844;98;617::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()

@@ -5,7 +5,7 @@ print("Mob Enforcer 10%")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("5007;109;481::100", gg.TYPE_QWORD)
+gg.searchNumber("5169;109;564::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
@@ -13,9 +13,9 @@ if cnt > 0 and cnt%size == 0 then
 	print(">>> Found", cnt, "results.")
 	local r = gg.getResults(cnt)
 	for i=0, cnt/size-1 do
-		r[1+i*size].value = 100000 -- speed
-		r[2+i*size].value = 2000 -- speed
-		r[3+i*size].value = 90000 -- basic damage
+		r[1+i*size].value = 100000 -- health
+		r[2+i*size].value = 10000 -- speed
+		r[3+i*size].value = 500000 -- physical damage
 	end
 	gg.setValues(r)
 	print(">>> Done.")
