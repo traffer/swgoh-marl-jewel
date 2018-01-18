@@ -5,7 +5,7 @@ print("Chimaera")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("132;6104;17284::100", gg.TYPE_QWORD)
+gg.searchNumber("141;7065;20580::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()

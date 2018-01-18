@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("Greedo 5%")
+print("Admiral Ackbar")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("7237;107;910::100", gg.TYPE_QWORD)
+gg.searchNumber("10143;87;1054::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
