@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("Luminara Unduli 5%")
+print("Nute Gunray 10%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("6067;112;798::100", gg.TYPE_QWORD)
+gg.searchNumber("4845;115;610::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
