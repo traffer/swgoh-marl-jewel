@@ -5,7 +5,7 @@ print("Old Daka")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("6259;104;562::100", gg.TYPE_QWORD)
+gg.searchNumber("9897;111;918::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
