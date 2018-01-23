@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("CT-7567 Rex 5%")
+print("CT-21-0408 Echo 5%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("15429;199;2336::100", gg.TYPE_QWORD)
+gg.searchNumber("8271;111;884::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
