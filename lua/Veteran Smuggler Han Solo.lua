@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("Veteran Smuggler Chewbacca 5%")
+print("Veteran Smuggler Han Solo 10%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("6990;88;672::100", gg.TYPE_QWORD)
+gg.searchNumber("4414;134;539::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
