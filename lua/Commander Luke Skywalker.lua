@@ -5,7 +5,7 @@ print("Commander Luke Skywalker 5%")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("20949;230;3248::48", gg.TYPE_QWORD)
+gg.searchNumber("20949;230;3248::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
