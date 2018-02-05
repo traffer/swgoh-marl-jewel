@@ -1,13 +1,13 @@
 --gg.setVisible(false)
 
-print("Darth Maul")
+print("Commander Luke Skywalker 5%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("14177;138;3046::100", gg.TYPE_QWORD)
+gg.searchNumber("20949;230;3248;1647;39601::384", gg.TYPE_QWORD)
 
-local size = 3
+local size = 5
 local cnt = gg.getResultCount()
 if cnt > 0 and cnt%size == 0 then
 	print(">>> Found", cnt, "results.")
@@ -15,7 +15,9 @@ if cnt > 0 and cnt%size == 0 then
 	for i=0, cnt/size-1 do
 		r[1+i*size].value = 1000000 -- health
 		r[2+i*size].value = 15000 -- speed
-		r[3+i*size].value = 500000 -- physical damage
+		r[3+i*size].value = 2 * r[3+i*size].value -- physical damage
+		r[4+i*size].value = 2 * r[4+i*size].value -- special damage
+		r[5+i*size].value = 2000000 -- protection
 	end
 	gg.setValues(r)
 	print(">>> Done.")
