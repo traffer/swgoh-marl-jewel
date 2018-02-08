@@ -5,7 +5,7 @@ print("Gauntlet Starfigher")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("70446;142;8887::100", gg.TYPE_QWORD)
+gg.searchNumber("70732;142;8932::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
