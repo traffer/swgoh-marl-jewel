@@ -5,7 +5,7 @@ print("Stormtrooper 5%")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("7980;93;701::48", gg.TYPE_QWORD)
+gg.searchNumber("8970;93;778::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()

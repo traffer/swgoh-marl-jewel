@@ -15,10 +15,10 @@ if cnt > 0 and cnt%size == 0 then
 	for i=0, cnt/size-1 do
 		r[1+i*size].value = 100000 -- speed
 		r[2+i*size].value = 10000 -- speed
-		r[3+i*size].value = 500000 -- basic damage
+		r[3+i*size].value = 500000 -- physical damage
 	end
 	gg.setValues(r)
 	print(">>> Done.")
 else
-	print(">>> Strange number of results: ", cnt)
+	print("!!! Strange number of results: ", cnt)
 end

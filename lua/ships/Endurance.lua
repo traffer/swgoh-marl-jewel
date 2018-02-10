@@ -14,8 +14,8 @@ if cnt > 0 and cnt%size == 0 then
 	local r = gg.getResults(cnt)
 	for i=0, cnt/size-1 do
 		r[1+i*size].value = 1500 -- speed
-		r[2+i*size].value = 94000 -- physical offense
-		r[3+i*size].value = 94000 -- special offense
+		r[2+i*size].value = 94000 -- basic damage
+		r[3+i*size].value = 94000 -- special damage
 	end
 	gg.setValues(r)
 	print(">>> Done.")
