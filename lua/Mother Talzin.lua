@@ -1,13 +1,13 @@
 --gg.setVisible(false)
 
-print("TIE Fighter Pilot 15%")
+print("Mother Talzin 10%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("15135;173;2814::100", gg.TYPE_QWORD)
+gg.searchNumber("9780;112;825;1810::100", gg.TYPE_QWORD)
 
-local size = 3
+local size = 4
 local cnt = gg.getResultCount()
 if cnt > 0 and cnt%size == 0 then
 	print(">>> Found", cnt, "results.")
@@ -16,6 +16,7 @@ if cnt > 0 and cnt%size == 0 then
 		r[1+i*size].value = 100000 -- health
 		r[2+i*size].value = 10000 -- speed
 		r[3+i*size].value = 500000 -- physical damage
+		r[4+i*size].value = 500000 -- special damage
 	end
 	gg.setValues(r)
 	print(">>> Done.")
