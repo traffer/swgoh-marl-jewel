@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("Kylo Ren Command Shuttle")
+print("Sun Fac Geonosian Starfighter")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("58010;113;6936::100", gg.TYPE_QWORD)
+gg.searchNumber("70542;125;7513::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
