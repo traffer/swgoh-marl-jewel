@@ -1,11 +1,11 @@
 --gg.setVisible(false)
 
-print("Luke Skywalker (Farmboy) 5%")
+print("Clone Wars Chewbacca 5%")
 
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("3516;102;377::100", gg.TYPE_QWORD)
+gg.searchNumber("4658;91;426::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()

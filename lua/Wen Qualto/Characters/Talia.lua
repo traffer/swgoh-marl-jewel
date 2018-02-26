@@ -5,7 +5,7 @@ print("Talia 5%")
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
 
-gg.searchNumber("1783;88;172::100", gg.TYPE_QWORD)
+gg.searchNumber("4207;95;443::100", gg.TYPE_QWORD)
 
 local size = 3
 local cnt = gg.getResultCount()
