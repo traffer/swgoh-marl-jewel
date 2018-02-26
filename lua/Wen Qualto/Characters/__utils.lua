@@ -1,6 +1,6 @@
-local CSV={}
+local Utils={}
 
-function CSV.parseLine(line, sep)
+function Utils.parseCSVLine(line, sep)
 	local res = {}
 	local pos = 1
 	sep = sep or ','
@@ -40,4 +40,16 @@ function CSV.parseLine(line, sep)
 	return res
 end
 
-return CSV
+function Utils.lengthOfTable(table)
+	if table == nil then
+		return 0
+	end
+	
+	local cnt = 0
+	for k,v in pairs(table) do
+		cnt = cnt + 1
+	end
+	return cnt
+end
+
+return Utils
