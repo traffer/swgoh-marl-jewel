@@ -71,7 +71,7 @@ for k,v in pairs(choice) do
 		for i=0, cnt/size-1 do
 			r[1+i*size].value = 200000 -- health
 			r[2+i*size].value = 10000 -- speed
-			--r[3+i*size].value = 500000 -- physical damage
+			r[3+i*size].value = 10 * r[3+i*size].value -- physical damage
 		end
 		resObj.table = r
 	else
