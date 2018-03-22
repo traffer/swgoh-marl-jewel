@@ -70,8 +70,8 @@ for k,v in pairs(choice) do
 		local r = gg.getResults(cnt)
 		for i=0, cnt/size-1 do
 			--r[1+i*size].value = 100000 -- health
-			r[2+i*size].value = 10000 -- speed
-			r[3+i*size].value = 500000 -- physical damage
+			r[2+i*size].value = 100 + r[2+i*size].value -- speed
+			r[3+i*size].value = 5000 + r[3+i*size].value -- physical damage
 		end
 		resObj.table = r
 	else
