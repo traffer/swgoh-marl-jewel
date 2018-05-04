@@ -1,11 +1,12 @@
-(A) Chopper,13143;157;1085::100
-(A) Ezra Bridger,11448;148;1348::100
-"(A) Garazeb ""Zeb"" Orrelios",15093;118;1445::100
-(A) Hera Syndulla,10861;114;1360::100
-(A) Kanan Jarrus,14223;95;1217::100
+(a) Chopper,13143;157;1085::100
+(a) Ezra Bridger,11448;148;1348::100
+"(a) Garazeb ""Zeb"" Orrelios",15093;118;1445::100
+(a) Hera Syndulla,10861;114;1360::100
+(a) Kanan Jarrus,14223;95;1217::100
 Biggs Darklighter,12812;108;1675::100
 Cad Bane,2591;103;317::100
 Clone Wars Chewbacca,8158;93;680::100
+Darth Vader,14914;119;1245::100
 Dengar,2742;100;225::100
 First Order SF TIE Pilot,11904;118;1150::100
 First Order TIE Pilot,9789;123;1828::100
@@ -13,5 +14,7 @@ Grand Moff Tarkin,11925;122;1647::100
 Luke Skywalker (Farmboy),4576;107;571::100
 Sabine Wren,5460;127;852::100
 Talia,8277;95;833::100
-TIE Figher Pilot,9138;177;2110::100
+TIE Figher Pilot,10145;177;2221::100
 Visas Marr,5204;108;604::100
+Boba Fett,5113;132;1011::100
+Snowtrooper,5339;86;576::100
