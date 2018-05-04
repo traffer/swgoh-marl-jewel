@@ -5,7 +5,7 @@
 Admiral Ackbar,19953;198;2593::100
 Asajj Ventress,19022;180;2609::100
 BB-8,19603;210;2344::100
-Boba Fett,12353;135;1847::100
+Boba Fett,14091;174;2381::100
 Captain Han Solo,15101;152;1314::100
 Captain Phasma,20572;121;1701::100
 Chief Chirpa,16221;110;1656::100
@@ -14,8 +14,8 @@ Chopper,16606;182;1689::100
 Clone Wars Chewbacca,19460;100;1807::100
 Colonel Starck,9137;143;1154::100
 Commander Luke Skywalker,19693;234;3341::100
-"CT-5555 ""Fives""",22336;143;1915::100
-"CT-7567 ""Rex""",15584;195;2272::100
+"CT-5555 ""Fives""",22336;122;1877::100
+"CT-7567 ""Rex""",15584;195;2320::100
 Darth Maul,13344;152;2858::100
 Darth Nihilus,24457;188;1695::100
 Darth Sidious,12490;202;2517::100
@@ -48,3 +48,6 @@ Sabine Wren,15107;173;1991::100
 Savage Opress,17916;117;1717::100
 TIE Fighter Pilot,15994;219;3480::100
 Wedge Antilles,17380;136;2518::100
+Clone Sergeant - Phase I,12597;101;1613::100
+CC-2224 "Cody",10176;109;1444::100
+CT-21-0408 "Echo",11314;127;1464::100
