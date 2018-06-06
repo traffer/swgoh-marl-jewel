@@ -39,7 +39,7 @@ table.sort(names)
 local choice
 
 repeat
-	choice = gg.multiChoice(names, {}, "CHOOSE TOONS TO PATCH:")
+	choice = gg.multiChoice(names, {[1]=true,[2]=true,[3]=true,[5]=true,[6]=true}, "CHOOSE TOONS TO PATCH:")
 until choice == nil or utils.lengthOfTable(choice) > 0
 
 if choice == nil then
@@ -69,9 +69,9 @@ for k,v in pairs(choice) do
 	if cnt > 0 and cnt%size == 0 then
 		local r = gg.getResults(cnt)
 		for i=0, cnt/size-1 do
-			--r[1+i*size].value = 10000 -- health
-			r[2+i*size].value = 60 + r[2+i*size].value -- speed
-			r[3+i*size].value = 2000 + r[3+i*size].value -- physical damage
+			--r[1+i*size].value = 100000 -- health
+			r[2+i*size].value = 100 + r[2+i*size].value -- speed
+			r[3+i*size].value = 5000 + r[3+i*size].value -- physical damage
 		end
 		resObj.table = r
 	else
