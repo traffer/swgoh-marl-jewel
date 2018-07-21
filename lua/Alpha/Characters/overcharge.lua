@@ -49,7 +49,8 @@ end
 
 -- create patch
 
-gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
+--gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
+gg.setRanges(gg.REGION_ANONYMOUS)
 
 local patch = {}
 
