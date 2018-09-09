@@ -1,7 +1,7 @@
 (a) Bastila Shan,23856;210;2491::100
 (a) Ezra Bridger,26772;218;2864::100
 (a) General Kenobi,32051;203;2906::100
-(a) Grand Admiral Thrawn,34662;239;3758::100
+(a) Grand Admiral Thrawn,34662;243;3758::100
 (a) Grand Master Yoda,17185;265;4544::100
 Biggs Darklighter,21055;118;2497::100
 Bistan,4357;110;429::100
@@ -9,15 +9,15 @@ Boba Fett,11665;135;1878::100
 Cad Bane,2591;103;317::100
 Captain Phasma,11986;107;908::100
 Cassian Andor,3882;117;465::100
-Chopper,17233;152;1402::100
+Chopper,17233;152;1363::100
 Clone Wars Chewbacca,8158;93;680::100
-"CT-5555 ""Fives""",20407;115;1561::100
+"CT-5555 ""Fives""",32601;120;2007::100
 Darth Maul,18364;98;3222::100
 Darth Nihilus,17505;114;2842::100
 Darth Sion,18248;131;1870::100
-Darth Vader,37607;189;2582::100
+Darth Vader,37693;146;2678::100
 Dengar,3462;100;281::100
-Emperor Palpatine,17815;206;4728::100
+Emperor Palpatine,15105;166;4409::100
 Enfys Nest,11999;185;1758::100
 First Order SF TIE Pilot,12120;118;1174::100
 First Order TIE Pilot,19215;132;3024::100
@@ -33,6 +33,7 @@ Kylo Ren (Unmasked),25230;126;1755::100
 Luke Skywalker (Farmboy),7384;110;1091::100
 Obi-Wan Kenobi (Old Ben),13954;108;1123::100
 Princess Leia,5309;108;618::100
+Rebel Officer Leia Organa,4670;123;763::100
 Sabine Wren,5460;127;852::100
 Snowtrooper,5339;86;576::100
 Stormtrooper,8250;93;722::100
