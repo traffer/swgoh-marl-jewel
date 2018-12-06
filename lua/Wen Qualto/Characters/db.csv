@@ -1,8 +1,8 @@
-(a) Bastila Shan,32919;219;3232::100
-(a) Ezra Bridger,29758;238;2821::100
-(a) General Kenobi,39868;218;3215::100
-(a) Hermit Yoda,25662;264;3518::100
-(a) zGrand Master Yoda,26371;274;5106::100
+(1) Bastila Shan,32919;219;3232::100
+(1) Ezra Bridger,29758;238;2821::100
+(1) General Kenobi,39868;218;3215::100
+(1) Hermit Yoda,25662;264;3518::100
+(2) Grand Master Yoda,26371;274;5106::100
 Asajj Ventress,5328;77;603::100
 Biggs Darklighter,21055;118;2497::100
 Bistan,5815;123;708::100
@@ -15,11 +15,12 @@ Chief Chirpa,17629;110;1656::100
 Chirrut Imwe,4446;126;652::100
 Chopper,18663;152;1414::100
 Clone Wars Chewbacca,8158;93;680::100
+Colonel Starck,5629;121;588::100
 "CT-5555 ""Fives""",32601;120;2007::100
 Darth Maul,18364;98;3222::100
 Darth Nihilus,19035;114;2984::100
 Darth Sion,21452;131;2119::100
-Darth Vader,39661;151;2777::100
+Darth Vader,39661;151;2807::100
 Dengar,9626;103;932::100
 Emperor Palpatine,15105;166;4409::100
 Enfys Nest,16742;221;1876::100
@@ -27,6 +28,7 @@ First Order Officer,10849;137;1344::100
 First Order SF TIE Pilot,12120;118;1174::100
 First Order TIE Pilot,21434;132;3024::100
 "Garazeb ""Zeb"" Orrelios",15906;118;1554::100
+General Veers,8711;113;1223::100
 General Veers,8711;113;1223::100
 Geonosian Soldier,24100;163;3134::100
 Geonosian Spy,29391;130;2975::100
@@ -51,8 +53,8 @@ Princess Leia,18062;175;3170::100
 R2-D2,26088;156;2154::100
 Rebel Officer Leia Organa,12852;145;1587::100
 Sabine Wren,6324;127;948::100
-Snowtrooper,5339;86;576::100
-Stormtrooper,8250;93;722::100
+Snowtrooper,9155;86;965::100
+Stormtrooper,8862;93;791::100
 Stormtrooper Han,8294;100;773::100
 Sun Fac,38689;112;2434::100
 Talia,9051;95;895::100
