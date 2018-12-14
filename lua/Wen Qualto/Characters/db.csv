@@ -1,8 +1,8 @@
 (1) Bastila Shan,32919;219;3232::100
-(1) Ezra Bridger,29758;238;2941::100
-(1) General Kenobi,39868;218;3215::100
+(1) Ezra Bridger,29758;240;2996::100
+(1) General Kenobi,41753;216;3254::100
 (1) Hermit Yoda,25662;264;3518::100
-(2) Grand Master Yoda,26371;274;5106::100
+(2) Grand Master Yoda,32621;274;5106::100
 Asajj Ventress,5328;77;603::100
 Biggs Darklighter,21055;118;2497::100
 Bistan,5815;123;708::100
@@ -11,7 +11,7 @@ Bossk,36288;160;2924::100
 Cad Bane,15021;116;2025::100
 Captain Phasma,11986;107;908::100
 Cassian Andor,4188;117;634::100
-Chief Chirpa,17629;110;1656::100
+Chief Chirpa,5087;110;579::100
 Chirrut Imwe,4446;126;652::100
 Chopper,18663;152;1414::100
 Clone Wars Chewbacca,8158;93;680::100
@@ -24,6 +24,7 @@ Darth Vader,39661;151;2840::100
 Dengar,9626;103;932::100
 Emperor Palpatine,15105;166;4409::100
 Enfys Nest,16742;221;1876::100
+Ewok Elder,6129;94;482::100
 First Order Officer,10849;137;1344::100
 First Order SF TIE Pilot,12120;118;1174::100
 First Order TIE Pilot,21434;132;3024::100
@@ -43,6 +44,7 @@ K-2SO,6679;112;524::100
 Kanan Jarrus,17661;95;1484::100
 Kylo Ren,15900;116;1718::100
 Kylo Ren (Unmasked),27968;126;1755::100
+Logray,5165;106;424::100
 Luke Skywalker (Farmboy),10444;114;1682::100
 Luminara Unduli,9569;115;1328::100
 Mace Windu,8748;95;714::100
