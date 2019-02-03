@@ -1,7 +1,7 @@
 (1) Bastila Shan,32919;219;3232::100
-(1) Ezra Bridger,29758;240;2996::100
 (1) General Kenobi,41753;216;3254::100
-(1) Hermit Yoda,27802;265;3725::100
+(1) Jedi Knight Revan,19701;266;2976::100
+(1) Jolee Bindo,29545;208;2701::100
 (2) Grand Master Yoda,36857;274;5106::100
 Admiral Ackbar,10534;105;1266::100
 Asajj Ventress,7768;79;712::100
@@ -16,8 +16,8 @@ Chief Chirpa,5087;110;579::100
 Chirrut Imwe,4446;126;652::100
 Chopper,26468;152;2123::100
 Clone Wars Chewbacca,8158;93;680::100
-Commander Luke Skywalker,19116;186;2653::100
 Colonel Starck,5629;121;588::100
+Commander Luke Skywalker,19116;186;2653::100
 "CT-5555 ""Fives""",32601;120;2007::100
 Darth Maul,18364;98;3222::100
 Darth Nihilus,27183;117;3228::100
@@ -27,6 +27,7 @@ Dengar,9626;103;932::100
 Emperor Palpatine,16548;186;4885::100
 Enfys Nest,16742;221;1876::100
 Ewok Elder,6129;94;482::100
+Ezra Bridger,23823;204;2913::100
 First Order Officer,10849;137;1344::100
 First Order SF TIE Pilot,12120;118;1174::100
 First Order TIE Pilot,21434;132;3024::100
@@ -39,6 +40,7 @@ Grand Moff Tarkin,33364;165;2659::100
 Greedo,13040;150;2154::100
 Han Solo,15705;195;2373::100
 Hera Syndulla,14097;132;1754::100
+Hermit Yoda,29641;264;3943::100
 Hoth Rebel Soldier,5993;92;490::100
 Jedi Consular,10691;113;1091::100
 Jyn Erso,5840;139;753::100
