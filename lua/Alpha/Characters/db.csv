@@ -27,12 +27,12 @@ Darth Maul,14414;146;3142::100
 Darth Nihilus,29517;212;4385::100
 Darth Sidious,12490;202;2517::100
 Darth Sion,30240;211;2679::100
-Darth Vader,27856;225;2950::100
+Darth Vader,27696;223;2988::100
 Dathcha,19587;167;2380::100
 Death Trooper,35580;142;2775::100
 Dengar,32157;143;2735::100
 Director Krennic,8952;129;839::100
-Emperor Palpatine,30317;216;5293::100
+Emperor Palpatine,30522;214;5309::100
 Enfys Nest,22869;262;2501::100
 Ewok Elder,28998;172;1978::100
 Ewok Scout,12571;140;1871::100
@@ -60,13 +60,13 @@ Jedi Consular,12365;113;1234::100
 Jedi Knight Anakin,19656;140;1912::100
 Jyn Erso,20200;174;3001::100
 Kanan Jarrus,23321;143;1761::100
-Kylo Ren,25452;181;2990::100
+Kylo Ren,25867;185;3040::100
 Lando Calrissian,14983;160;2379::100
 Logray,20128;208;2110::100
 Luke Skywalker (Farmboy),14984;119;2377::100
 Luminara Unduli,12587;118;1783::100
 Magmatrooper,27185;122;3003::100
-Mother Talzin,28891;155;4641::100
+Mother Talzin,32237;155;4897::100
 Nightsister Acolyte,17683;189;2123::100
 Nightsister Initiate,17420;112;1622::100
 Obi-Wan Kenobi (Old Ben),31421;195;2327::100
@@ -98,3 +98,5 @@ Wampa,31470;177;3339::100
 Wedge Antilles,20186;138;2526::100
 Wicket,18877;191;2613::100
 Young Han Solo,16424;149;1850::100
+Mace Windu,26054;143;2164::100
+Count Dooku,16569;171;2039::100
