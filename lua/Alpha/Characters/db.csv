@@ -1,7 +1,7 @@
 Admiral Ackbar,23466;198;2730::100
-Asajj Ventress,19879;180;2609::100
+Asajj Ventress,21179;162;2491::100
 Barriss Offee,35335;119;1993::100
-Bastila Shan,35505;209;3214::100
+Bastila Shan,35103;208;3496::100
 Bastila Shan (Fallen),22007;147;4192::100
 Baze Malbus,33762;95;2401::100
 BB-8,21314;210;2341::100
@@ -13,13 +13,14 @@ Cad Bane,24077;131;3122::100
 Captain Han Solo,15101;152;1314::100
 Captain Phasma,20572;121;1701::100
 Chewbacca,43587;241;3673::100
-Chief Chirpa,21456;170;2014::100
+Chief Chirpa,23111;182;2212::100
 Chirrut Imwe,20348;219;2868::100
 Chopper,20390;208;1741::100
 Clone Sergeant - Phase I,13551;101;1849::100
 Clone Wars Chewbacca,19460;100;1807::100
 Colonel Starck,24918;234;2304::100
 Commander Luke Skywalker,27998;280;3519::100
+Count Dooku,16569;171;2039::100
 "CT-2224 ""Cody""",10590;115;1562::100
 "CT-5555 ""Fives""",34880;119;2616::100
 "CT-7567 ""Rex""",18910;208;2324::100
@@ -36,7 +37,7 @@ Emperor Palpatine,30522;214;5309::100
 Enfys Nest,22869;262;2501::100
 Ewok Elder,28998;172;1978::100
 Ewok Scout,12571;140;1871::100
-Ezra Bridger,30187;233;2636::100
+Ezra Bridger,29961;226;2636::100
 Finn,35221;120;2300::100
 First Order TIE Pilot,22511;167;2969::100
 "Garazeb ""Zeb"" Orrelios",21691;162;1844::100
@@ -58,13 +59,16 @@ IG-88,12785;160;2688::100
 Jawa,14628;131;2103::100
 Jedi Consular,12365;113;1234::100
 Jedi Knight Anakin,19656;140;1912::100
+Jedi Knight Revan,29891;245;4228::100
+Jolee Bindo,34475;168;2212::100
 Jyn Erso,20200;174;3001::100
 Kanan Jarrus,23321;143;1761::100
 Kylo Ren,25867;185;3040::100
 Lando Calrissian,14983;160;2379::100
-Logray,20128;208;2110::100
+Logray,19529;195;2110::100
 Luke Skywalker (Farmboy),14984;119;2377::100
 Luminara Unduli,12587;118;1783::100
+Mace Windu,26054;143;2164::100
 Magmatrooper,27185;122;3003::100
 Mother Talzin,32237;155;4897::100
 Nightsister Acolyte,17683;189;2123::100
@@ -79,7 +83,7 @@ R2-D2,27809;261;2391::100
 Rebel Officer Leia Organa,14712;169;1979::100
 Resistance Pilot,9334;112;1307::100
 Resistance Trooper,19908;148;2737::100
-Rey (Jedi Training),28886;222;2714::100
+Rey (Jedi Training),28909;225;2687::100
 Rey (Scavenger),17559;172;2748::100
 Royal Guard,29752;129;2312::100
 Sabine Wren,15162;180;2327::100
@@ -98,5 +102,3 @@ Wampa,31470;177;3339::100
 Wedge Antilles,20186;138;2526::100
 Wicket,18877;191;2613::100
 Young Han Solo,16424;149;1850::100
-Mace Windu,26054;143;2164::100
-Count Dooku,16569;171;2039::100
