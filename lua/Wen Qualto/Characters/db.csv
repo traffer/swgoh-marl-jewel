@@ -10,7 +10,7 @@ Bistan,7075;129;937::100
 Boba Fett,20559;216;2956::100
 Bossk,36288;160;2924::100
 Cad Bane,18726;116;2418::100
-Captain Phasma,14965;172;1076::100
+Captain Phasma,14965;175;1076::100
 Cassian Andor,4188;117;634::100
 Chief Chirpa,9104;119;735::100
 Chirrut Imwe,4446;126;652::100
@@ -30,11 +30,11 @@ Ewok Elder,6129;94;482::100
 Ezra Bridger,23823;207;2913::100
 First Order Executioner,20356;111;2059::100
 First Order Officer,10849;137;1344::100
-First Order SF TIE Pilot,12120;118;1174::100
+First Order SF TIE Pilot,13097;194;1424::100
 First Order TIE Pilot,21434;132;3024::100
 "Garazeb ""Zeb"" Orrelios",22396;118;1805::100
 General Veers,13005;165;1611::100
-Geonosian Soldier,24100;163;3134::100
+Geonosian Soldier,24209;166;3134::100
 Geonosian Spy,29391;130;2975::100
 Grand Admiral Thrawn,38862;242;4546::100
 Grand Moff Tarkin,33364;165;2659::100
@@ -54,7 +54,7 @@ Logray,5165;106;424::100
 Luke Skywalker (Farmboy),17610;143;2681::100
 Luminara Unduli,11030;193;1465::100
 Mace Windu,20640;107;1397::100
-Mission Vao,17481;147;1795::100
+Mission Vao,17887;147;1795::100
 Obi-Wan Kenobi (Old Ben),29233;127;1664::100
 Plo Koon,15872;116;1206::100
 Princess Leia,18062;175;3170::100
@@ -66,6 +66,7 @@ Snowtrooper,9155;86;965::100
 Stormtrooper,8862;93;791::100
 Stormtrooper Han,8294;100;773::100
 Sun Fac,38689;112;2434::100
+T3-M4,19089;158;2783::100
 Talia,12899;129;1259::100
 Teebo,28325;127;2750::100
 TIE Figher Pilot,16271;173;2935::100
