@@ -62,7 +62,7 @@ for k,v in pairs(choice) do
 	resObj.name = name
 
 	gg.clearResults()
-	gg.searchNumber(data.query, gg.TYPE_QWORD)
+	gg.searchNumber(data.query, gg.TYPE_FLOAT)
 
 	local size = 3
 	local cnt = gg.getResultCount()
