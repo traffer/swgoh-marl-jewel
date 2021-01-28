@@ -1,5 +1,6 @@
 
-local filepath = string.match(debug.getinfo(1).source, "^@(.*)$")
+--local filepath = string.match(debug.getinfo(1).source, "^@(.*)$")
+local filepath = debug.getinfo(2, "S").source:sub(2)
 local dir = string.gsub(filepath, "/[^/]+$", "")
 
 package.path = package.path .. string.format(";%s/?.lua", dir)

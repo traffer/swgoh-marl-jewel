@@ -1,4 +1,5 @@
 
+--local filepath = string.match(debug.getinfo(1).source, "^@(.*)$")
 local filepath = debug.getinfo(2, "S").source:sub(2)
 local dir = string.gsub(filepath, "/[^/]+$", "")
 
@@ -49,7 +50,8 @@ end
 
 -- create patch
 
-gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
+--gg.setRanges(gg.REGION_ANONYMOUS | gg.REGION_C_BSS)
+gg.setRanges(gg.REGION_ANONYMOUS)
 
 local patch = {}
 
@@ -69,9 +71,9 @@ for k,v in pairs(choice) do
 	if cnt > 0 and cnt%size == 0 then
 		local r = gg.getResults(cnt)
 		for i=0, cnt/size-1 do
-			r[1+i*size].value = 100000 + r[1+i*size].value -- health
-			--r[2+i*size].value = 60 + r[2+i*size].value -- speed
-			--r[3+i*size].value = 5000 + r[3+i*size].value -- physical damage
+			r[1+i*size].value = 2 * r[1+i*size].value -- health
+			--r[2+i*size].value = 10000 + r[2+i*size].value -- speed
+			--r[3+i*size].value = 150000 + r[3+i*size].value -- physical damage
 		end
 		resObj.table = r
 	else

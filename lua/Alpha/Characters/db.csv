@@ -1,13 +1,14 @@
-(1) Bastila Shan,41979;251;3841::100
-(1) General Kenobi,38694;232;3193::100
-(1) Grand Master Yoda,30688;275;5022::100
-(1) Jedi Knight Revan,36188;291;4719::100
-(1) Jolee Bindo,39139;228;2570::100
+(1)First Order Officer,55423;298;4126::100
+(1)Kylo Ren (Unmasked),104160;228;5446::100
+(1)General Hux,75592;305;4598::100
+(1)Sith Trooper,61225;245;6853::100
+(1)Supreme Leader Kylo Ren,140395;544;10846::100
 Aayla Secura,18412;208;1857::100
 Admiral Ackbar,23466;198;2730::100
 Ahsoka Tano (Fulcrum),16295;171;1952::100
 Asajj Ventress,23981;206;2627::100
 Barriss Offee,35335;119;1993::100
+Bastila Shan,41979;251;3841::100
 Bastila Shan (Fallen),40459;166;5478::100
 Baze Malbus,33762;95;2401::100
 BB-8,21314;220;2364::100
@@ -48,17 +49,18 @@ Ewok Scout,12571;140;1871::100
 Ezra Bridger,29961;226;2636::100
 Finn,28510;189;2588::100
 First Order Executioner,23295;141;2914::100
-First Order Officer,16564;225;2296::100
 First Order TIE Pilot,22017;196;3008::100
 "Garazeb ""Zeb"" Orrelios",21691;162;1844::100
 General Grievous,39166;237;3054::100
+General Kenobi,38694;232;3193::100
 General Veers,18749;205;2582::100
 Geonosian Soldier,25584;173;3068::100
 Geonosian Spy,26119;132;2814::100
 Grand Admiral Thrawn,40836;260;4090::100
+Grand Master Yoda,30688;275;5022::100
 Grand Moff Tarkin,31842;173;2397::100
 Greedo,13720;157;2381::100
-Han Solo,29252;255;3006::100
+Han Solo,46942;251;6140::100
 Hera Syndulla,20325;141;2147::100
 HK-47,23771;201;2527::100
 Hoth Rebel Scout,13324;137;1716::100
@@ -68,10 +70,11 @@ IG-88,12785;160;2688::100
 Jawa,14628;131;2103::100
 Jedi Consular,12365;113;1234::100
 Jedi Knight Anakin,21911;171;2214::100
+Jedi Knight Revan,36188;291;4719::100
+Jolee Bindo,39139;228;2570::100
 Jyn Erso,20200;174;3001::100
 Kanan Jarrus,23321;143;1761::100
 Kylo Ren,25867;185;3040::100
-Kylo Ren (Unmasked),31454;211;2863::100
 Lando Calrissian,14983;160;2379::100
 Logray,18805;196;2204::100
 Luke Skywalker (Farmboy),17691;181;2609::100
@@ -100,7 +103,6 @@ Scarif Rebel Pathfinder,43821;121;2801::100
 Shoretrooper,34077;178;2564::100
 Sith Assassin,13574;217;1863::100
 Sith Marauder,25378;163;2277::100
-Sith Trooper,35179;131;2849::100
 Snowtrooper,25158;169;2387::100
 Stormtrooper,15278;113;1703::100
 Sun Fac,39936;109;2474::100
